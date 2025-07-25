@@ -88,6 +88,7 @@ There is also an option for a button with user-defined `onclick` function.
 
 <br />
 
+> [!NOTE]
 > Disclaimer:
 > This node package has had two previous owners:
 > - [custom-electron-prompt](https://github.com/Aetherinox/node-electron-plugin-prompts)
