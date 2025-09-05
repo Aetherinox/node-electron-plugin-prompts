@@ -229,7 +229,7 @@ jobs:
             - name: >-
                   🎫 Labels › Verify Existing
               id: task_labels_create_verify
-              uses: actions/github-script@v7
+              uses: actions/github-script@v8
               with:
                   github-token: ${{ secrets.ADMINSERV_TOKEN_CL || github.token }}
                   script: |
@@ -299,7 +299,7 @@ jobs:
             - name: >-
                   🎫 Labels › Check
               id: task_issues_nolabel_run
-              uses: actions/github-script@v7
+              uses: actions/github-script@v8
               with:
                   github-token: ${{ secrets.ADMINSERV_TOKEN_CL || github.token }}
                   script: |
