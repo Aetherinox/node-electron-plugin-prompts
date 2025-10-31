@@ -68,7 +68,7 @@
         "env-cmd": "^10.1.0",
         "eslint": "9.29.0",
         "eslint-plugin-chai-friendly": "^1.0.1",
-        "eslint-plugin-import": "2.31.0",
+        "eslint-plugin-import": "2.32.0",
         "eslint-plugin-n": "17.20.0",
         "eslint-plugin-promise": "7.2.1",
         "uuid": "^11.1.0"
